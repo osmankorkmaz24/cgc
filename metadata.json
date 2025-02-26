@@ -1,0 +1,13 @@
+{
+  "name": "Casa Grande Coin",
+  "symbol": "CasaGrande",
+  "description": "Casa Grande Otel musterilerine ve calisanlari icin kurulmus yeni coin",
+  "image": "https://example.com/token-logo.png",
+  "attributes": [
+    {
+      "trait_type": "Kategori",
+      "value": "Otel Coin"
+    }
+  ]
+
+}
